@@ -1,7 +1,7 @@
 package com.comcast.ContactTest;
 
 import org.testng.annotations.Test;
-//hi maaaa
+
 public class ContactTest {
 
 	@Test(groups = "smokeTest")
@@ -19,3 +19,4 @@ public class ContactTest {
 		System.out.println("===Contact Deleted=====");
 	}
 }
+//lol
