@@ -1,0 +1,3 @@
+class{
+sysout("hiiii");
+}
