@@ -13,7 +13,7 @@ public class CampaignTest {
 	//HI DHANU AND ARCHANA
 	@Test(groups = "regressionTest")
 	public void ModifyCampaignTest() {
-		System.out.println("===Campaign Modified=====");
+		System.out.println("===Campaign Modified sucessfully=====");
 	}
 	
 	@Test(groups = "regressionTest")
